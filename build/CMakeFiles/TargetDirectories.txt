@@ -1,3 +1,0 @@
-/cygdrive/d/Project/_WORK/matrixmul/build/CMakeFiles/matrixmult.dir
-/cygdrive/d/Project/_WORK/matrixmul/build/CMakeFiles/edit_cache.dir
-/cygdrive/d/Project/_WORK/matrixmul/build/CMakeFiles/rebuild_cache.dir
